@@ -1,0 +1,17 @@
+This is the topic a student is trying to learn: <<TOPIC>>
+
+These are the core components of the topic: <<TOPIC COMPONENTS>>
+
+This is the student's statement about what they understand about this topic:
+
+<<STUDENT STATEMENT>>
+
+
+Compare the core components of the topic to the student's statement about this topic and assess how much the 
+student understands about the topic. 
+
+Please output their undestanding in the exact format below, without any additional text.
+
+Understands:
+
+Misunderstands

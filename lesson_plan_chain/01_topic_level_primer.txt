@@ -1,0 +1,6 @@
+Here is a concept: <<CONCEPT>>
+
+I want you to write a three sentence outline about how to teach this concept that is 
+appropriate for this age of student: <<STUDENT>>
+
+Please only respond with your outline, one sentence per line. Don't say anything else

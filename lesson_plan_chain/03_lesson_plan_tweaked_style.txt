@@ -1,0 +1,7 @@
+Here is a lesson plan: <<LESSON PLAN>>
+
+Please tweak this lesson plan so it is tailored to people who possess the following learning style: <<LEARNING STYLE COMMENTS>>
+
+Here is a statement describing how student's learning using this stlye: <<LEARNING STYLE STATEMENT>>
+
+Please factor in this statement when tweaking this lesson plan. Remember to only output the updated lesson plan and nothing else.  

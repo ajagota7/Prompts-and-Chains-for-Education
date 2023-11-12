@@ -1,0 +1,6 @@
+This is a topic someone is trying to learn: <<TOPIC>>
+
+Can you outline in simplest terms what the core components of this topic are and how
+these components together relate to the topic.
+
+Please output this outline as a single concise paragraph. Do not output any other text

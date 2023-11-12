@@ -1,0 +1,9 @@
+These are excerpts from a document that describe how different learning styles yield different results, for different types of students, what methods of learning style delivery are used, and how these decisions might impact a student's performance. 
+
+<<DOCUMENT EXCERPTS>>
+
+Please distill each of these excerpts into the main points of the excerpt such as the style of learning, any style of content delivery, and how it might affect performance, without any additional words or jargon. Only output these statements, nothing else.
+
+For example:
+
+Excerpt: 

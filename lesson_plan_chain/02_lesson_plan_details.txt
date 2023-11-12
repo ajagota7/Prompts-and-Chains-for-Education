@@ -1,0 +1,6 @@
+Here is an outline of how to teach <<CONCEPT>>: <<OUTLINE>>
+
+Please expand each sentence into a series of three bullet points regarding how to teach
+<<CONCEPT>>. Make sure the lesson plan is appropriate for students of 
+age: <<<STUDENT AGE>>. 
+

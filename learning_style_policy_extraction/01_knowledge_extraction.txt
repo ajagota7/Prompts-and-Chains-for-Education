@@ -1,0 +1,10 @@
+This is a document about learning styles:
+
+<<DOCUMENT>>
+
+Please extract the exact sentences of all the areas in this document that discuss how different learning styles yield different results
+for different types of students, what methods of learning style delivery are used, and how these decisions might impact a student's performance. 
+
+Please output the exact sentences from the article, and no other words. 
+
+
