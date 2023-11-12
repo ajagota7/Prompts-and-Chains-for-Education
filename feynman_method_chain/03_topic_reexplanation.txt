@@ -1,0 +1,10 @@
+This is the topic at hand: <<TOPIC>>
+
+These are the components that make up the topic: <<TOPIC COMPONENTS>>
+
+This is a breakdown of what a student understands and misunderstands about the topic based on their explanation:
+
+<<STUDENT BREAKDOWN>>
+
+
+Please re-explan the topic to the student, highlighting the information that they understand less. Explain it an effective, step by step manner.
