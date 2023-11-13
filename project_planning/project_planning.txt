@@ -1,0 +1,41 @@
+This a description of project assigned by a teacher to their students: 
+
+<<PROJECT DECRIPTION>>
+
+These are the learning objectives outlined by the teacher for this project:
+
+<<LEARNING OBJECTIVES>>
+
+Please think step by step through all the milestones that go into completing this project and come up with a list of these milestones that best align with the learning objectives. 
+
+Please Output a list of these milestones in chronological order. The output template for each milestone should a short phrase, accompanied by a one sentence description.
+
+
+An Example can be seen below:
+
+
+Project Description:
+
+In this project, students will conduct a simple scientific research experiment to explore the principles of plant growth.
+
+Learning Objectives:
+
+Develop an understanding of the scientific method.
+Enhance observational and analytical skills through hands-on experimentation.
+Communicate findings effectively through a written report.
+
+
+Milestones:
+
+Choose a Research Question
+
+Select a specific question related to plant growth that can be investigated through experimentation.
+Design and Conduct Experiment
+
+Plan and execute a simple experiment to test the chosen research question, recording observations and measurements.
+Create a Scientific Report
+
+Compile the experiment results into a well-organized scientific report, including an introduction, methods, results, and conclusion sections.
+
+
+Please only output the milestones and nothing else. 
